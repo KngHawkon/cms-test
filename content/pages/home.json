@@ -1,4 +1,21 @@
 {
   "title": "Home",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "Hero",
+      "props": {
+        "heading": "Hero 1",
+        "subheading": "Nice!",
+        "buttonText": "",
+        "buttonUrl": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "RichText",
+      "props": {
+        "content": "Hello"
+      }
+    }
+  ]
 }
